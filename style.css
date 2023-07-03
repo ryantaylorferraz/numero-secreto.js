@@ -46,4 +46,14 @@ h3 {
     margin: 20px;
 }
 
+.btn-jogar {
+    padding: 8px 15px;
+    border: 0;
+    background-color: var(--primary-color);
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
 /*Próxima aula: Número aleatório com math.radom*/
